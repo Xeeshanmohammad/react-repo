@@ -1,0 +1,36 @@
+{
+  "name": "salam-react",
+  "version": "1.0.0",
+  "description": "This is my reactApp",
+  "scripts": {
+    "start": "parcel index.html",
+    "build":"parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xeeshanmohammad/react-repo.git"
+  },
+  "keywords": [
+    "react",
+    "react-app"
+  ],
+  "author": "Mohammad Zeeshan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Xeeshanmohammad/react-repo/"
+  },
+  "homepage": "https://github.com/Xeeshanmohammad/react-repo#readme",
+  "devDependencies": {
+    "parcel": "^2.10.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.20.1"
+  },
+  "browsersList":[
+    "last 2 versions"
+  ]
+}
